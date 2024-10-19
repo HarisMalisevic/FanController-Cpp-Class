@@ -1,1 +1,1 @@
-# FanMode-Cpp-Class
+# FanController-Cpp-Class
